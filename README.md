@@ -1,2 +1,3 @@
-# COSC6370-Project
+COSC6370
 
+Identification of tumors from MR Images using Deep learning Techniques
