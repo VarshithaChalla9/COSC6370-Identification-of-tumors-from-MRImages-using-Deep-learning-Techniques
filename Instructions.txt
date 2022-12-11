@@ -1,0 +1,7 @@
+Instructions to run the code.
+
+i.  Please download the dataset from kaggle and upload the same to google drive
+    Dataset is available on Kaggle @ https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download
+ii. Open the .pynb files in google colab and run each cell in order.
+iii. You can see the accuracy and results we achieved in predicting the tumors from the MR images dataset. 
+
